@@ -43,7 +43,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: mycontainer
-        image: devopsjourney1/mywebapp
+        image: diegolisboajj/pywebapp
         ports:
         - containerPort: 80
         envFrom:
